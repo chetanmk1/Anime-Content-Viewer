@@ -19,7 +19,7 @@ module.exports = configure(function (/* ctx */) {
       // include: [],
       // exclude: [],
       // rawOptions: {},
-      warnings: true,
+      warnings: false,
       errors: true
     },
 
